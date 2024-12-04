@@ -45,28 +45,31 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::SlotMachine.Properties.Resources.cherries;
             this.pictureBox1.Location = new System.Drawing.Point(78, 89);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(142, 133);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Image = global::SlotMachine.Properties.Resources.seven;
             this.pictureBox2.Location = new System.Drawing.Point(265, 89);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(142, 133);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox3
             // 
+            this.pictureBox3.Image = global::SlotMachine.Properties.Resources.diamond;
             this.pictureBox3.Location = new System.Drawing.Point(450, 89);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(142, 133);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -110,10 +113,10 @@
             // 
             // btnSpin
             // 
-            this.btnSpin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSpin.Location = new System.Drawing.Point(288, 244);
+            this.btnSpin.Font = new System.Drawing.Font("Summer Dream Sans Demo", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSpin.Location = new System.Drawing.Point(274, 240);
             this.btnSpin.Name = "btnSpin";
-            this.btnSpin.Size = new System.Drawing.Size(93, 33);
+            this.btnSpin.Size = new System.Drawing.Size(119, 33);
             this.btnSpin.TabIndex = 8;
             this.btnSpin.Text = "Spin";
             this.btnSpin.UseVisualStyleBackColor = true;
