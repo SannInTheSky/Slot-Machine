@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|c:\\users\\ihub30pc\\documents\\github\\slot-machine\\slotmachineee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|c:\\users\\ihub30pc\\documents\\github\\slot-machine\\slotmachineee\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|solutionrelative:models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|c:\\users\\ihub30pc\\documents\\github\\slot-machine\\slotmachineee\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|solutionrelative:models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|c:\\users\\ihub30pc\\documents\\github\\slot-machine\\slotmachineee\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E40C47A-8514-43EC-B728-9BC484446D3C}|SlotMachineee.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:09:42.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "Models\\Slot.cs",
+              "ToolTip": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Models\\Slot.cs",
+              "RelativeToolTip": "Models\\Slot.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:05:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reel.cs",
+              "DocumentMoniker": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Models\\Reel.cs",
+              "RelativeDocumentMoniker": "Models\\Reel.cs",
+              "ToolTip": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Models\\Reel.cs",
+              "RelativeToolTip": "Models\\Reel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:05:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:01:00.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\iHub30PC\\Documents\\GitHub\\Slot-Machine\\SlotMachineee\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:01:00.64Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

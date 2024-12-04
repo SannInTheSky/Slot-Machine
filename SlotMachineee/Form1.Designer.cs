@@ -32,14 +32,16 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblBalance = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.btnSpin = new System.Windows.Forms.Button();
+            this.lblResult = new System.Windows.Forms.Label();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtStake = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -85,16 +87,15 @@
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
-            // label1
+            // lblBalance
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("DM Sans", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(214, 377);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(161, 31);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Balance: 900";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.lblBalance.AutoSize = true;
+            this.lblBalance.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBalance.Location = new System.Drawing.Point(304, 378);
+            this.lblBalance.Name = "lblBalance";
+            this.lblBalance.Size = new System.Drawing.Size(151, 29);
+            this.lblBalance.TabIndex = 3;
+            this.lblBalance.Text = "Balance: 900";
             // 
             // pictureBox4
             // 
@@ -133,26 +134,26 @@
             this.pictureBox7.TabIndex = 8;
             this.pictureBox7.TabStop = false;
             // 
-            // button1
+            // btnSpin
             // 
-            this.button1.Font = new System.Drawing.Font("Milker", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(319, 313);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 42);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "SPIN";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSpin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSpin.Location = new System.Drawing.Point(319, 313);
+            this.btnSpin.Name = "btnSpin";
+            this.btnSpin.Size = new System.Drawing.Size(120, 42);
+            this.btnSpin.TabIndex = 9;
+            this.btnSpin.Text = "SPIN";
+            this.btnSpin.UseVisualStyleBackColor = true;
+            this.btnSpin.Click += new System.EventHandler(this.btnSpin_Click);
             // 
-            // label2
+            // lblResult
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("DM Sans", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(249, 54);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(258, 31);
-            this.label2.TabIndex = 10;
-            this.label2.Text = "WIN! You earned P100";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.lblResult.AutoSize = true;
+            this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResult.Location = new System.Drawing.Point(249, 54);
+            this.lblResult.Name = "lblResult";
+            this.lblResult.Size = new System.Drawing.Size(257, 29);
+            this.lblResult.TabIndex = 10;
+            this.lblResult.Text = "WIN! You earned P100";
             // 
             // pictureBox8
             // 
@@ -164,20 +165,39 @@
             this.pictureBox8.TabIndex = 11;
             this.pictureBox8.TabStop = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(72, 362);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(23, 13);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "Bet";
+            // 
+            // txtStake
+            // 
+            this.txtStake.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtStake.Location = new System.Drawing.Point(75, 378);
+            this.txtStake.Name = "txtStake";
+            this.txtStake.Size = new System.Drawing.Size(148, 35);
+            this.txtStake.TabIndex = 13;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(773, 450);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.txtStake);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblResult);
+            this.Controls.Add(this.btnSpin);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblBalance);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox8);
             this.Name = "Form1";
@@ -201,14 +221,16 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblBalance;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox7;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnSpin;
+        private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtStake;
     }
 }
 
