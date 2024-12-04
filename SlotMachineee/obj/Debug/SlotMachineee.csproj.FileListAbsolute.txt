@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachineee\obj\Debug\SlotMachineee.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachineee\obj\Debug\SlotMachineee.Form1.resources
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachineee\obj\Debug\SlotMachineee.Properties.Resources.resources
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachineee\obj\Debug\SlotMachineee.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachineee\obj\Debug\SlotMachineee.csproj.CoreCompileInputs.cache
