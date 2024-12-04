@@ -18,3 +18,20 @@ C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\obj\Deb
 C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
 C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\bell.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\cherries.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\diamond.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\lemon.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\plum.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\seven.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\watermelon.png
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.AssemblyReference.cache
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb

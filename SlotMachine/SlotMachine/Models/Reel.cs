@@ -11,7 +11,7 @@ namespace SlotMachine.Models
         private readonly PictureBox pictureBox;
         private readonly string[] symbols = { "cherries", "lemon", "bell", "watermelon", "plum", "diamond" };
         private readonly Random random = new Random();
-        private readonly string imagePath = "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Icons\\";
+        private readonly string imagePath = Path.Combine(Application.StartupPath, "Icons");
 
         public Reel(PictureBox pictureBox)
         {
