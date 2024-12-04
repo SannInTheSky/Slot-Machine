@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\ihub4pc\\documents\\slotmachine\\slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\ihub4pc\\documents\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\ihub4pc\\documents\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\ihub4pc\\documents\\slotmachine\\slotmachine\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reel.cs",
+              "DocumentMoniker": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\Reel.cs",
+              "ToolTip": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\Reel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:43:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\Slot.cs",
+              "ToolTip": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:43:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeToolTip": "SlotMachine\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:39:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\iHub4PC\\Documents\\SlotMachine\\SlotMachine\\Form1.cs [Design]",
+              "RelativeToolTip": "SlotMachine\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:34:17.734Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
