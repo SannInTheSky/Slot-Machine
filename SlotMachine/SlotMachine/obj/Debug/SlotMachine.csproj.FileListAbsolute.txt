@@ -1,0 +1,10 @@
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.AssemblyReference.cache
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\iHub4PC\Documents\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
