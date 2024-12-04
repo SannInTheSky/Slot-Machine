@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\hp\\desktop\\oop\\slotmachine\\slot-machine\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\hp\\desktop\\oop\\slotmachine\\slot-machine\\slotmachine\\slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,10 +40,9 @@
               "RelativeDocumentMoniker": "SlotMachine\\Models\\Reel.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
               "RelativeToolTip": "SlotMachine\\Models\\Reel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA7wCQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:43:01.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T07:43:01.132Z"
             },
             {
               "$type": "Document",
