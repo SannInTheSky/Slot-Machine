@@ -35,3 +35,10 @@ E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\Slo
 E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
 E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
 E:\_My Documents\repositories\Slot-Machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\bell.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\cherries.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\diamond.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\lemon.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\plum.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\seven.png
+C:\Users\HP\Desktop\OOP\SlotMachine\Slot-Machine\SlotMachine\SlotMachine\bin\Debug\Icons\watermelon.png

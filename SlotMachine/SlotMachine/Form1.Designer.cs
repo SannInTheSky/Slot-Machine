@@ -159,7 +159,7 @@
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox5.Image = global::SlotMachine.Properties.Resources.cherries;
-            this.pictureBox5.Location = new System.Drawing.Point(-14, 289);
+            this.pictureBox5.Location = new System.Drawing.Point(-5, 280);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(117, 107);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -168,6 +168,7 @@
             // 
             // pictureBox6
             // 
+            this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox6.Image = global::SlotMachine.Properties.Resources.watermelon;
             this.pictureBox6.Location = new System.Drawing.Point(560, 297);
             this.pictureBox6.Name = "pictureBox6";
@@ -214,6 +215,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
+            this.BackgroundImage = global::SlotMachine.Properties.Resources.d83b2de2e7d64a56d69f34798957465f;
             this.ClientSize = new System.Drawing.Size(672, 387);
             this.Controls.Add(this.btnSpin);
             this.Controls.Add(this.pictureBox7);

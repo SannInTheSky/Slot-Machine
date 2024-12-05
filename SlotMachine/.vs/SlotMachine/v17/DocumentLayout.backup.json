@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|e:\\_my documents\\repositories\\slot-machine\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|c:\\users\\hp\\desktop\\oop\\slotmachine\\slot-machine\\slotmachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\slotmachine\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\slotmachine\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7CE1B5-EB37-4C03-9FCC-04E24C7E34C4}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\reel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Reel.cs",
-              "DocumentMoniker": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
               "RelativeDocumentMoniker": "SlotMachine\\Models\\Reel.cs",
-              "ToolTip": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Reel.cs",
               "RelativeToolTip": "SlotMachine\\Models\\Reel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:43:01.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Slot.cs",
-              "DocumentMoniker": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
-              "RelativeDocumentMoniker": "SlotMachine\\Models\\Slot.cs",
-              "ToolTip": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
-              "RelativeToolTip": "SlotMachine\\Models\\Slot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:43:34.702Z"
+              "WhenOpened": "2024-12-04T07:43:01.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs",
-              "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
-              "ToolTip": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs*",
-              "RelativeToolTip": "SlotMachine\\Form1.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAewE8AAAAAAAAAAAAAAA==",
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\Slot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Models\\Slot.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\Slot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:39:39.199Z",
+              "WhenOpened": "2024-12-04T07:43:34.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs",
               "RelativeDocumentMoniker": "SlotMachine\\Form1.cs",
-              "ToolTip": "E:\\_My Documents\\repositories\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OOP\\SlotMachine\\Slot-Machine\\SlotMachine\\SlotMachine\\Form1.cs [Design]*",
               "RelativeToolTip": "SlotMachine\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T07:34:17.734Z",
