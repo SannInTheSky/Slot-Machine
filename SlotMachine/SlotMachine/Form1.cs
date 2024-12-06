@@ -66,16 +66,20 @@ namespace SlotMachine
                 if (winnings > 0)
                 {
                     lblResult.Text = " WIN! You earned P" + winnings + " ";
-                    lblResult.ForeColor = Color.Green;
+                    lblResult.ForeColor = Color.LimeGreen;
                 }
                 else
                 {
                     lblResult.Text = "No luck this time!";
-                    lblResult.ForeColor = Color.Red;
+                    lblResult.ForeColor = Color.White;
                 }
                 lblBalance.Text = "Balance: P" + slotMachine.Balance;
                 txtStake.Clear();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
         }
     }
 }

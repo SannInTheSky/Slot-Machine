@@ -73,6 +73,16 @@ namespace SlotMachine.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap blank_slot {
+            get {
+                object obj = ResourceManager.GetObject("blank_slot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cherries {
             get {
                 object obj = ResourceManager.GetObject("cherries", resourceCulture);
@@ -96,6 +106,16 @@ namespace SlotMachine.Properties {
         internal static System.Drawing.Bitmap diamond {
             get {
                 object obj = ResourceManager.GetObject("diamond", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap empty_slot {
+            get {
+                object obj = ResourceManager.GetObject("empty_slot", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -89,6 +89,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Icons\blank_slot.png" />
     <Content Include="Icons\cherries.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -99,6 +100,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Icons\empty_slot.png" />
     <Content Include="Icons\lemon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
